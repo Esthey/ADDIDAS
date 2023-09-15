@@ -1,9 +1,8 @@
-# ADDIDAS
-SALES PERFORMANCE OBJECTIVES
+# ADDIDAS FOOTWEAR SALES PERFORMANCE AND TREND
 
-Footwear Sales Performance from the year 2020 to 2021 Using Excel.
+# Footwear Sales Performance from the year 2020 to 2021 Using Excel.
 
-OBJECTIVES
+# OBJECTIVES
 
 Sales Trend and Year-on-Year Growth 
 
@@ -13,7 +12,7 @@ Top Retailers with highest Sales and Operating Profit
 
 Sales Method Year-On-Year Sales and Operating Profit
 
-The processes I took in order to provide answers to the above: 
+# The processes I took in order to provide answers to the above: 
 
 .Loaded and cleaned the data using PowerQuery
 
@@ -21,7 +20,7 @@ The processes I took in order to provide answers to the above:
 
 .Designed my dashboard with the reports and most important metrics
 
-RECCOMENDATION
+# RECCOMENDATION
 
 The state and city with low patronage rate should be provided certain percentage of discount and go on Sales to draw attentions of prospective customers,create awareness such as advertisemenrt via social media,Billboards and using other Marketing strategies.
 
